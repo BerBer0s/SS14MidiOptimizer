@@ -43,7 +43,3 @@ build.bat
 ```
 
 EXE появится в `tobuild/dist/MIDI_Optimizer_SS14.exe`
-
-## Автор
-
-by **Berber0s**

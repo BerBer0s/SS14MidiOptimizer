@@ -38,7 +38,7 @@
 Требования: Python 3.11, pip
 
 ```bat
-cd tobuild
+cd [папка с файлами]
 build.bat
 ```
 
